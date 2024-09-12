@@ -20,3 +20,5 @@ This project recreates the "Bad Apple" animation using the Botris avatar editor.
 2. **Convert Images to Matrices**: Run `generate_matrices.py` to convert the image sequence into binary matrices.
 3. **Draw Matrices**: Execute `generate_final.py` to draw each frame onto the Botris editor.
 4. **Play Animation**: Finally, use `play.py` to display the created animation alongside the original "Bad Apple" video.
+
+![Alt text](example.png)
