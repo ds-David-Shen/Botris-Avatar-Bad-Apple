@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "badapple",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
